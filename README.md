@@ -1,6 +1,6 @@
-Hi! I’m Gabriel. I'm working to make a transiction from the path that i would become an engineer to become a possible new Dev :D
+Hi! I’m Gabriel. I'm working to make a transiction from the path that i would become an engineer to become a new Dev :D
 
-Olá! Eu me chamo Gabriel. Estou trabalhando para fazer a transição do caminho que me tornaria um engenheiro para me tornar um possivel novo desenvolvedor :D
+Olá! Eu me chamo Gabriel. Estou trabalhando para fazer a transição do caminho que me tornaria um engenheiro para me tornar um novo desenvolvedor :D
 
 I'm interest in programming and solve problems.
 
