@@ -2,9 +2,9 @@ Hi! I’m Gabriel. I'm working to make a transiction from the path that i would 
 
 Olá! Eu me chamo Gabriel. Estou trabalhando para fazer a transição do caminho que me tornaria um engenheiro para me tornar um possivel novo desenvolvedor :D
 
-I'm interest in coding and programming to projects and to solve problems.
+I'm interest in programming and solve problems.
 
-Eu estou interessado em codificar e programar para projetos e para resolver problemas.
+Eu estou interessado em programar e resolver problemas.
 
 I’m currently learning HTML, CSS and JavaScript. I learned C and participated of a project that we had programmed for the microcontroller 8051.
 
