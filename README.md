@@ -8,7 +8,7 @@ Viso colaborar em projetos e soluções para problemas.
 
 Você pode entrar em contato comigo pelo Linkedin https://www.linkedin.com/in/gabriel-jonatas-035078160
 
-Hi! I’m Gabriel. I'm working to make a transiction from the path that i would become an engineer to become a new Dev :D
+Hi! I’m Gabriel. I'm working to make a transiction from the path i was taken to become an engineer, changing to become a new Dev :D
 
 For now, i'm interest in programming and solve problems.
 
