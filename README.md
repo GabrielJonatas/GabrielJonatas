@@ -2,7 +2,7 @@ Olá! Eu me chamo Gabriel. Estou trabalhando para fazer a transição do caminho
 
 Estou interessado em programar e resolver problemas.
 
-Atualmente aprendendo HTML, CSS e JavaScript. Eu já aprendi C e participei de um projeto em que nós haviamos programado um microcontrolador da familia 8051.
+Atualmente aprendendo HTML, CSS e JavaScript, mas com maior foco em JavaScript. Eu já aprendi C e participei de um projeto em que nós haviamos programado um microcontrolador da familia 8051.
 
 Viso colaborar em projetos e soluções para problemas.
 
@@ -12,7 +12,7 @@ Hi! I’m Gabriel. I'm working to make a transiction from the path i was taken t
 
 For now, i'm interest in programming and solve problems.
 
-Currently learning HTML, CSS and JavaScript. I learned C and participated of a project that we had programmed a 8051 family microcontroller.
+Currently learning HTML, CSS and JavaScript, but learning JavaScript in more depth. I learned C and participated of a project that we had programmed a 8051 family microcontroller.
 
 Looking for collaborate on projects and solutions to problems.
 
