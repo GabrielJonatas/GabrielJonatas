@@ -8,9 +8,9 @@ Você pode entrar em contato comigo pelo Linkedin https://www.linkedin.com/in/ga
 
 Hi! My name is Gabriel and i'm working on back-end development.
 
-Here i keep repositories of projects and exercises that was developed through my studies.
+Here i keep repositories of projects and exercises that were developed through my studies.
 
-Currently i have intermediate level in JavaScript and Node.js, as well basic level in Java and Python.
+Currently i have intermediate level in JavaScript and Node.js, as well as a basic level in Java and Python.
 
 You can reach me by the Linkedin https://www.linkedin.com/in/gabriel-jonatas-035078160
 
