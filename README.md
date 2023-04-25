@@ -1,20 +1,16 @@
-Olá! Eu me chamo Gabriel. Estou trabalhando para fazer a transição do caminho que me tornaria um engenheiro para me tornar um novo desenvolvedor :D
+Olá! Eu me chamo Gabriel e atuo com desenvolvimento de aplicações back-end.
 
-Estou interessado em programar e resolver problemas.
+Mantenho aqui no github repositórios de projetos e exercicios desenvolvidos durante meus estudos.
 
-Atualmente aprendendo HTML, CSS e JavaScript, mas com maior foco em JavaScript. Eu já aprendi C e participei de um projeto em que nós haviamos programado um microcontrolador da familia 8051.
-
-Viso colaborar em projetos e soluções para problemas.
+Atualmente tenho habilidades intermediárias em JavaScript e Node.js, e também habilidades básicas em Java e Python.
 
 Você pode entrar em contato comigo pelo Linkedin https://www.linkedin.com/in/gabriel-jonatas-035078160
 
-Hi! I’m Gabriel. I'm working to make a transiction from the path i was taken to become an engineer, changing to become a new Dev :D
+Hi! My name is Gabriel and i'm working on back-end development.
 
-For now, i'm interest in programming and solve problems.
+Here i keep repositories of projects and exercises that was developed through my studies.
 
-Currently learning HTML, CSS and JavaScript, but learning JavaScript in more depth. I learned C and participated of a project that we had programmed a 8051 family microcontroller.
-
-Looking for collaborate on projects and solutions to problems.
+Currently i have intermediate level in JavaScript and Node.js, as well basic level in Java and Python.
 
 You can reach me by the Linkedin https://www.linkedin.com/in/gabriel-jonatas-035078160
 
