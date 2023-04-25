@@ -12,7 +12,7 @@ Here i keep repositories of projects and exercises that were developed through m
 
 Currently i have intermediate level in JavaScript and Node.js, as well as a basic level in Java and Python.
 
-You can reach me by the Linkedin https://www.linkedin.com/in/gabriel-jonatas-035078160
+You can reach me on Linkedin at https://www.linkedin.com/in/gabriel-jonatas-035078160
 
 <!---
 GabrielJonatas/GabrielJonatas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
