@@ -1,4 +1,4 @@
-Olá! Eu me chamo Gabriel e atuo com desenvolvimento de aplicações back-end.
+Olá! Eu me chamo Gabriel e atuo principalmente com desenvolvimento back-end.
 
 Mantenho aqui no github repositórios de projetos e exercicios desenvolvidos durante meus estudos.
 
@@ -6,7 +6,7 @@ Atualmente tenho habilidades intermediárias em JavaScript e Node.js, e também 
 
 Você pode entrar em contato comigo pelo Linkedin https://www.linkedin.com/in/gabriel-jonatas-035078160
 
-Hi! My name is Gabriel and i'm working on back-end development.
+Hi! My name is Gabriel and i'm most working on back-end development.
 
 Here i keep repositories of projects and exercises that were developed through my studies.
 
