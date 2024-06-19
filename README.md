@@ -2,7 +2,7 @@ Olá! Eu me chamo Gabriel e atuo principalmente com desenvolvimento back-end.
 
 Mantenho aqui no github repositórios de projetos e exercicios desenvolvidos durante meus estudos.
 
-Atualmente tenho habilidades intermediárias em JavaScript e Node.js, e também habilidades básicas em Java e Python.
+Atualmente tenho conhecimentos em JavaScript, TypeScript, Java, Python e C# 
 
 Você pode entrar em contato comigo pelo Linkedin https://www.linkedin.com/in/gabriel-jonatas-035078160
 
@@ -10,7 +10,7 @@ Hi! My name is Gabriel and i'm most working on back-end development.
 
 Here i keep repositories of projects and exercises that were developed through my studies.
 
-Currently i have intermediate level in JavaScript and Node.js, as well as a basic level in Java and Python.
+Currently i have some knowledge in JavaScript, TypeScript, Java, Python and C#.
 
 You can reach me on Linkedin at https://www.linkedin.com/in/gabriel-jonatas-035078160
 
